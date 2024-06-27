@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/tridibesh9/smart-Expense-Tracker/public/static/css/main.9f03d937.css",
-    "main.js": "/tridibesh9/smart-Expense-Tracker/public/static/js/main.8245b08d.js",
-    "static/media/logo.png": "/tridibesh9/smart-Expense-Tracker/public/static/media/logo.ecae37443c9d4f50019b.png",
-    "index.html": "/tridibesh9/smart-Expense-Tracker/public/index.html",
-    "main.9f03d937.css.map": "/tridibesh9/smart-Expense-Tracker/public/static/css/main.9f03d937.css.map",
-    "main.8245b08d.js.map": "/tridibesh9/smart-Expense-Tracker/public/static/js/main.8245b08d.js.map"
+    "main.css": "/tridibesh9/smart-Expense-Tracker/static/css/main.9f03d937.css",
+    "main.js": "/tridibesh9/smart-Expense-Tracker/static/js/main.fc33e6e6.js",
+    "static/media/logo.png": "/tridibesh9/smart-Expense-Tracker/static/media/logo.ecae37443c9d4f50019b.png",
+    "index.html": "/tridibesh9/smart-Expense-Tracker/index.html",
+    "main.9f03d937.css.map": "/tridibesh9/smart-Expense-Tracker/static/css/main.9f03d937.css.map",
+    "main.fc33e6e6.js.map": "/tridibesh9/smart-Expense-Tracker/static/js/main.fc33e6e6.js.map"
   },
   "entrypoints": [
     "static/css/main.9f03d937.css",
-    "static/js/main.8245b08d.js"
+    "static/js/main.fc33e6e6.js"
   ]
 }
