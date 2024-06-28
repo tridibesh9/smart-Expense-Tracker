@@ -37,7 +37,11 @@ function App() {
     updateExpense.splice(key,1)
     setExpense([...updateExpense])
   }
-
+const updatelist = (key,input)=>{
+    let updatedExpense = [...expenseList]
+    updatedExpense[key] = input;
+    setExpense([...updatedExpense])
+}
   return (
     <div>
       <Navbar />
@@ -60,7 +64,7 @@ function App() {
           else
             return item.ExpenseClass === filters
         })).map((value, i) => (
-          <AddnewExpense key={i} index={i} {...value} deleteExpense = {deleteExpense} />
+          <AddnewExpense key={i} index={i} {...value} deleteExpense = {deleteExpense} updatelist = {updatelist}/>
         ))}
       </div>
         <div className="total">Total : <div>{total}</div></div>
