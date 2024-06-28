@@ -1,5 +1,6 @@
 import { useState } from "react";
 import { useEffect } from "react";
+import { MdOutlineEdit } from "react-icons/md";
 export default function Editmodal(props){
      const [edits,setEdits] = useState(props)
      const [buttonState,setbutton] = useState(true)
@@ -54,7 +55,7 @@ export default function Editmodal(props){
               props.updatelist(props.index,new_details)
               props.changeEditstate()
       
-            }}>
+            }}><MdOutlineEdit />
             </button>
         </div>
     )

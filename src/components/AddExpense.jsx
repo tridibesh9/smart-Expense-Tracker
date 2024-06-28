@@ -50,7 +50,7 @@ export default function AddExpense(props) {
   }
   
   return (
-    <div className="AddExpense">
+    <div className="AddExpense" id="addExpense">
       <div className="Heading">ADD YOUR EXPENSES HERE</div>
       <input
         type="text"

@@ -47,7 +47,7 @@ const updatelist = (key,input)=>{
       <Navbar />
       <Hero />
       <AddExpenses addList={addList}  />
-      <div className="ExpenseList">
+      <div className="ExpenseList" id="expenseList">
         <div className="heading"> EXPENSE LIST</div>
         <div className="filter">Filter: 
           <select name="ExpenseClass" value={filters} onChange={updatefilter} >
