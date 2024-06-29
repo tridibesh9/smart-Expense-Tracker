@@ -5,7 +5,7 @@ import { useEffect } from "react";
 export default function AddExpense(props) {
   const [input, setInputs] = useState({
     amount: "",
-    ExpenseClass: "",
+    ExpenseClass: "Grocery",
     Date: "",
   });
   const [buttonState,setbutton] = useState(true)
@@ -44,7 +44,7 @@ export default function AddExpense(props) {
   },[input])
   function clearinput(){
     const newinput = {amount: "",
-      ExpenseClass: "",
+      ExpenseClass: "Grocery",
       Date: ""}
       setInputs(newinput)
   }
