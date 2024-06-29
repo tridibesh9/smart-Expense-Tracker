@@ -16,7 +16,8 @@ export default function AddnewExpense(props2) {
       <p>{props2.Date}</p>
       <button onClick={e=>{
             props2.deleteExpense(props2.index)
-            changeEditstate()
+            if(editState !== false)
+              changeEditstate()
         }} ><MdDelete /></button>
       <button onClick={
         ()=>{
