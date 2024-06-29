@@ -70,7 +70,7 @@ body{
 .AddExpense>select{
   background-color: #DDF2FD;
   color: #427D9D;
-  width: 20%;
+  width: 250px;
   height: 6%;
   border-radius: 10px;
   border-color: #427D9D;
@@ -79,7 +79,7 @@ body{
   background-color: #DDF2FD;
   color: #427D9D;
   border-radius: 10px;
-  width: 20%;
+  width: 250px;
   height: 6%;
   border-color: #427D9D;
 }
