@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/smart-Expense-Tracker/static/css/main.d722d7ab.css",
-    "main.js": "/smart-Expense-Tracker/static/js/main.8c17b575.js",
+    "main.js": "/smart-Expense-Tracker/static/js/main.fb04ff15.js",
     "static/media/logo.png": "/smart-Expense-Tracker/static/media/logo.ecae37443c9d4f50019b.png",
     "index.html": "/smart-Expense-Tracker/index.html",
     "main.d722d7ab.css.map": "/smart-Expense-Tracker/static/css/main.d722d7ab.css.map",
-    "main.8c17b575.js.map": "/smart-Expense-Tracker/static/js/main.8c17b575.js.map"
+    "main.fb04ff15.js.map": "/smart-Expense-Tracker/static/js/main.fb04ff15.js.map"
   },
   "entrypoints": [
     "static/css/main.d722d7ab.css",
-    "static/js/main.8c17b575.js"
+    "static/js/main.fb04ff15.js"
   ]
 }
