@@ -9,7 +9,7 @@ import AddnewExpense from "./components/AddnewExpense";
 function App() {
   const [expenseList, setExpense] = useState(() => {
     const storedExpense = JSON.parse(localStorage.getItem('expense'));
-    return storedExpense ? (storedExpense) : 0;});
+    return storedExpense ? (storedExpense) : [];});
   const [total, setTotal] = useState(0);
   const [filters,setfilter]= useState("none");
   const updateTotal = () =>{
