@@ -37,6 +37,9 @@ export default function Editmodal(props){
     else
       setbutton(true)
   },[edits])
+  useEffect(()=>{
+    setEdits(props)
+  },[props])
   if(props.editstate){
     return(
         <div className="editmodal">
