@@ -87,7 +87,7 @@ body{
   background-color: #DDF2FD;
   color: #427D9D;
   border-radius: 10px;
-  width: 15%;
+  width: 200px;
   height: 6%;
   border-color: #427D9D;
 }
@@ -179,7 +179,7 @@ body{
 .filter>select{
   background-color: #DDF2FD;
   color: #427D9D;
-  width: 10%;
+  width: 150px;
   height: 10%;
   border-radius: 10px;
   border-color: #427D9D;
@@ -193,7 +193,8 @@ body{
   color: #9BBEC8;
   width: 100%;
   height: 40%;
-  padding: 5px;
+  padding-top: 5px;
+
   gap: 10px;
 }
 .editmodal>input{
@@ -223,6 +224,7 @@ body{
 .editmodal>button{
 border-radius: 5px;
 background-color: #DDF2FD;
+width: 30px;
 }
 .Expensebar{
   display: flex;
