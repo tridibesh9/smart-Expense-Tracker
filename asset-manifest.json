@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/tridibesh9/smart-Expense-Tracker/static/css/main.33d50289.css",
-    "main.js": "/tridibesh9/smart-Expense-Tracker/static/js/main.8588efa9.js",
+    "main.js": "/tridibesh9/smart-Expense-Tracker/static/js/main.5fec33c0.js",
     "static/media/logo.png": "/tridibesh9/smart-Expense-Tracker/static/media/logo.ecae37443c9d4f50019b.png",
     "index.html": "/tridibesh9/smart-Expense-Tracker/index.html",
     "main.33d50289.css.map": "/tridibesh9/smart-Expense-Tracker/static/css/main.33d50289.css.map",
-    "main.8588efa9.js.map": "/tridibesh9/smart-Expense-Tracker/static/js/main.8588efa9.js.map"
+    "main.5fec33c0.js.map": "/tridibesh9/smart-Expense-Tracker/static/js/main.5fec33c0.js.map"
   },
   "entrypoints": [
     "static/css/main.33d50289.css",
-    "static/js/main.8588efa9.js"
+    "static/js/main.5fec33c0.js"
   ]
 }
